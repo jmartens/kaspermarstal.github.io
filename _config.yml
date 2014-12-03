@@ -1,7 +1,7 @@
 # Site settings
-title: Kasper Marstal
+title: Kasper Marstal Online Portfolio
 email: kaspermarstal@gmail.com
-description: "Kasper Marstal's personal webiste."
+description: "Kasper Marstal's website."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -12,7 +12,7 @@ color:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
-    url: dk.linkedin.com/in/kaspermarstal/
+    url: http://dk.linkedin.com/in/kaspermarstal/
   - title: twitter
     url: http://twitter.com/kaspermarstal
   - title: facebook
