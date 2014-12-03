@@ -1,0 +1,15 @@
+---
+title: Master Thesis
+subtitle: Image Registration
+layout: default
+modal-id: 2
+date: 2013-07-13
+img: master-thesis-thumbnail.png
+thumbnail: master-thesis-thumbnail.png
+alt: image-alt
+project-date: July 2013
+technologies: Matlab, C++
+link: kasper-marstal-master-thesis-july-2013.pdf
+description: This is the thesis I wrote for my Master's degree in Medicin &amp; Technology. The thesis extends the work of Zhang et al. on 2D Parts+Geometry Models to 3D images. A Parts+Geometry learns the spatial relationship between anatomical landmarks in images to find a sparse set of corresponding landmarks. The correspondences can be used to automatically initialize an Active Shape Model (ASM) or an Active Appearance Model (AAM). The big background image at the top of the page is taken from this thesis.
+
+---

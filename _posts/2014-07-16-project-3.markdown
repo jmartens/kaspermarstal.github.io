@@ -1,0 +1,14 @@
+---
+title: Bachelor Thesis
+subtitle: Knee Articular Cartilage Segmentation
+layout: default
+modal-id: 3
+date: 2011-08-11
+img: bachelor-thesis-thumbnail.png
+thumbnail: bachelor-thesis-thumbnail.png
+alt: image-alt
+project-date: August 2011
+technologies: Matlab, C++, CUDA
+link: kasper-marstal-bachelor-thesis-august-2011.pdf
+description: This is the thesis I wrote for my degree in B.Sc. Physics. The work was presented at the student session of the IEEE ELMAR 2011 Conference and won the Best Student Paper Award. The thesis presents an algorithm for semi-automatic segmentation of cartilage in magnetic resonance images acquired from knees of patients with clinically verified osteoarthritis. The method is tested on 50 1.5T magnetic resonance images and allows for more accurate analysis of 3D cartilage models in clinical investigations. Results were compared to state-of-the-art techniques and were favored by clinical professionals.
+---
