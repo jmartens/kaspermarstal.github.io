@@ -1,6 +1,6 @@
 ---
 title: Bachelor Thesis
-subtitle: Knee Articular Cartilage Segmentation
+subtitle: On Cartilage Segmentation
 layout: default
 modal-id: 3
 date: 2011-08-11
