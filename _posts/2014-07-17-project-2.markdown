@@ -1,6 +1,6 @@
 ---
 title: Master Thesis
-subtitle: Image Registration
+subtitle: On Image Registration
 layout: default
 modal-id: 2
 date: 2013-07-13
