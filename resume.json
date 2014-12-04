@@ -18,7 +18,17 @@
       {
         "network": "LinkedIn",
         "username": "kaspermarstal",
-        "url": ""
+        "url": "http://dk.linkedin.com/in/kaspermarstal/"
+      },
+      {
+        "network": "Github",
+        "username": "kaspermarstal",
+        "url": "http://github.com/kaspermarstal"
+      },
+      {
+        "network": "Stackoverflow",
+        "username": "kaspermarstal",
+        "url": "http://http://stackoverflow.com/users/346365/kasper-marstal"
       }
     ]
   },
@@ -28,7 +38,6 @@
       "position": "Scientific Project Officer",
       "website": "http://imageanalysis.org.uk",
       "startDate": "2014-01-04",
-      "endDate": "2014-01-04",
       "summary": "Image Analysis Ltd develops Dynamika, an enterprise platform for MRI analysis and scoring. I develop the core image processing algorithms  specifically for scoring inflammatory or autoimmune conditions such as rheumatoid arthritis and cancer. The algorithms are both fully automatic and semi-automatic allows for detection and quantification of even subtle changes in disease progression.",
       "highlights": [
         "Integrated the elastix medical image registration library and the entire ITK library into our Java-based backend.",
@@ -39,8 +48,8 @@
       "company": "Parker Institute, Frederiksberg Hospital",
       "position": "Research & Development and Project Assistant",
       "website": "http://imageanalysis.org.uk",
-      "startDate": "2014-01-04",
-      "endDate": "2014-01-04",
+      "startDate": "2003-01-06",
+      "endDate": "2014-03-31",
       "summary": "Todo.",
       "highlights": [
         "Todo."
@@ -58,54 +67,86 @@
         "Todo.",
         "Todo."
       ]
+    },
+    {
+      "institution": "University of Copenhagen",
+      "area": "Physics",
+      "studyType": "Bachelor",
+      "startDate": "2017-09-01",
+      "endDate": "2011-08-10",
+      "courses": [
+        "Todo.",
+        "Todo."
+      ]
     }
   ],
   "awards": [
     {
-      "title": "Digital Compression Pioneer Award",
-      "date": "2014-11-01",
-      "awarder": "Techcrunch",
-      "summary": "There is no spoon."
+      "title": "Best Student Paper Award",
+      "date": "2014-09-15",
+      "awarder": "IEEE ELMAR",
+      "summary": "Article and Oral presentation."
     }
   ],
   "publications": [
     {
-      "name": "Video compression for 3d media",
-      "publisher": "Hooli",
-      "releaseDate": "2014-10-01",
-      "website": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
-      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
+      "name": "Semi-automatic Segmentation of Knee Osteoarthritic Cartilage in Magnetic Resonance Images",
+      "publisher": "IEEE",
+      "releaseDate": "2014-05-25",
+      "website": "",
+      "summary": "Fast, innovative algorithm for segmentation of knee articular cartilage."
     }
   ],
   "skills": [
     {
-      "name": "Web Development",
+      "name": "Image Processing",
       "level": "Master",
       "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript"
+        "C++",
+        "CUDA",
+        "ITK",
+        "Python",
+        "Matlab"
       ]
     },
     {
-      "name": "Compression",
+      "name": "Medical Image Analysis",
       "level": "Master",
       "keywords": [
-        "Mpeg",
-        "MP4",
-        "GIF"
+        "Medical Imaging",
+        "Machine Learning",
+        "Mathematical Modelling"
+      ]
+    },
+    {
+      "name": "Research & Development",
+      "level": "Master",
+      "keywords": [
+        "Project Management",
+        "Scientific Paper Writing",
+        "Excellent Presentation Skills",
+        "International Experience",
+        "SCRUM Software Development"
       ]
     }
   ],
   "languages": [
     {
+      "language": "Danish",
+      "fluency": "Native profeciency"
+    },
+    {
       "language": "English",
-      "fluency": "Native speaker"
+      "fluency": "Full professional profeciency"
+    },
+    {
+      "language": "German",
+      "fluency": "Elementary profeciency"
     }
   ],
   "interests": [
     {
-      "name": "Wildlife",
+      "name": "Drumming",
       "keywords": [
         "Ferrets",
         "Unicorns"
@@ -114,8 +155,16 @@
   ],
   "references": [
     {
-      "name": "Professor Tim Cootes",
-      "reference": "Todo."
+      "name": "Tim Cootes, Professor in Computer Vision, University of Manchester",
+      "reference": "I had the pleasure of supervising Kasper during a 5 month visit he made to Manchester (March-June 2013). During that time he was working on extending parts+geometry models to help improve 3D image registration. He was an excellent student - he quickly familiarised himself with new, fairly complex C++ code and was able to develop quite a sophisticated system in a short time. He interacted well with the group here and seemed to make good use of the opportunities available in Manchester. I have very much enjoyed working with Kasper, who I’m sure will go on to great things in whatever area he chooses to work in. He learns quickly, writes well and has demonstrated the ability to come up with innovative new ideas. He will be a great asset to any company or research group that takes him on."
+    },
+    {
+      "name": "Rasmus Poulsen, Associate Professor, DTU Compute, Technical University of Denmark",
+      "reference": "Kasper is a graduate student at the medicine and technology program at DTU. We know Kasper from his earlier work and projects connected to our department and he has proven to be an outstanding student. He is highly motivated and gifted with an open attitude. Kasper is one of our top student and we hope that he will continue his career at our institution."
+    },
+    {
+      "name": "Dr. Olga Kubassov, Founder and CEO at Image Analysis Ltd",
+      "reference": "Kasper is very bright, self-motivated and enthusiastic. It is a pleasure to work with him!"
     }
   ]
 }
