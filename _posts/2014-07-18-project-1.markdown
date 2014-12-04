@@ -1,6 +1,6 @@
 ---
 title: SimpleElastix
-subtitle: User-friendly Image Registration Library
+subtitle: User-friendly image registration library
 layout: default
 modal-id: 1
 date: 2014-12-01

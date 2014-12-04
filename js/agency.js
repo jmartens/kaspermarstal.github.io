@@ -35,3 +35,7 @@ $('div.modal').on('show.bs.modal', function() {
 		}
 	}
 });
+
+$("#iframe-resume").load(function() {
+    $(this).height( $(this).contents().find("body").height() );
+});

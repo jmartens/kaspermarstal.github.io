@@ -12,15 +12,11 @@ color:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
-    url: http://dk.linkedin.com/in/kaspermarstal/
-  - title: twitter
-    url: http://twitter.com/kaspermarstal
-  - title: facebook
-    url: http://facebook.com/kaspermarstal
-  - title: stack-overflow
-    url: http://http://stackoverflow.com/users/346365/kasper-marstal
+    url: http://www.linkedin.com/in/kaspermarstal
   - title: github
     url: http://github.com/kaspermarstal
+  - title: stack-overflow
+    url: http://http://stackoverflow.com/users/346365/kasper-marstal
 
 # Build settings
 markdown: kramdown

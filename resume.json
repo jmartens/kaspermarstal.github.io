@@ -6,13 +6,13 @@
     "email": "kaspermarstal@gmail.com",
     "phone": "+44 7729 860688",
     "website": "http://kaspermarstal.github.io",
-    "summary": "I believe computer-based analysis of medical images and clinical data will change the future of modern healthcare and I'm absolutely thrilled to be working in this field. As a graduate in engineering I come with an open mind, new ideas and high standards for myself and the company I work for. My main interest is improving clinical workflow using computer aided diagnosis. I strongly believe in AI-based image analysis and making the oh-so-sophisticated algorithms user-friendly so the (often not so technical) clinical personnel can actually put them to good use.\n\nFor my Master's in Medicin & Technology, I specialized in machine learning and medical image processing. Being part medicine and part computer science, this degree provides a fantastic multi-disciplinary foundation for working in this field. I also have a bachelor degree in physics which has taught me the principles of problem solving and mathematical modelling. I have international experience and practical understanding of client contact through my 10 years working at Frederiksberg Hospital, first as a project assistant and later doing fulltime R&D. I am easy to work with and contribute to a relaxed but focused workplace.\n\nThe tools I develop help doctors improve patient's quality of life. THAT is motivation.\n\nI currently hold the position of Scientific Project Officer at Image Analysis Ltd in London, England. My responsibilities include developing the core image processing algorithms for Image Analysis' cloud-based MRI scoring platform, supporting clinical clients and keeping our servers up and running. ",
+    "summary": "I believe computer-based analysis of medical images and clinical data will change the future of modern healthcare and I'm absolutely thrilled to be working in this field. As a graduate in engineering I come with an open mind, new ideas and high standards for myself and the company I work for. My main interest is improving clinical workflow using computer aided diagnosis. I strongly believe in AI-based image analysis and making my science-y algorithms user-friendly so the (often not so technical) clinical personnel can actually put them to good use.\n\nFor my Master's in Medicin & Technology I specialized in machine learning and medical image processing. Being part medicine and part computer science, this degree provides a fantastic multi-disciplinary foundation for working in this field. I also have a bachelor degree in physics which has taught me the principles of problem solving and mathematical modelling. I have international experience and practical understanding of client contact through my 10 years working at Frederiksberg Hospital, first as a project assistant and later doing fulltime R&D. I am easy to work with and contribute to a relaxed but focused workplace.\n\nThe tools I develop help doctors improve patient's quality of life. THAT is my otivation.\n\nI currently hold the position of Scientific Project Officer at Image Analysis Ltd in London, England. My responsibilities include developing the core image processing algorithms for Image Analysis' cloud-based MRI scoring platform, supporting clinical clients and keeping our servers up and running. ",
     "location": {
       "address": "72A Settles Street",
       "postalCode": "E1 1JP",
-      "city": "London",
+      "city": "Whitechapel",
       "countryCode": "UK",
-      "region": ""
+      "region": "London"
     },
     "profiles": [
       {
@@ -40,8 +40,8 @@
       "startDate": "2014-01-04",
       "summary": "Image Analysis Ltd develops Dynamika, an enterprise platform for MRI analysis and scoring. I develop the core image processing algorithms  specifically for scoring inflammatory or autoimmune conditions such as rheumatoid arthritis and cancer. The algorithms are both fully automatic and semi-automatic allows for detection and quantification of even subtle changes in disease progression.",
       "highlights": [
-        "Integrated the elastix medical image registration library and the entire ITK library into our Java-based backend.",
-        "Developed an algorithm that identifies bone voids and output 3D printing instructions for printing bio-reabsorbable scaffolds on which stem cells can grow and heal bone."
+        "Integrated the elastix medical image registration library and the entire ITK library with our Java-based backend.",
+        "Developed an algorithm that identifies bone voids and output 3D printing instructions for printing bio-reabsorbable scaffolds on which stem cells can grow and heal major bone defects."
       ]
     },
     {
@@ -50,22 +50,31 @@
       "website": "http://imageanalysis.org.uk",
       "startDate": "2003-01-06",
       "endDate": "2014-03-31",
-      "summary": "Todo.",
+      "summary": "The Parker Institute is a research organization at Frederiksberg Hospital. I was initially hired as project assistant doing project management and conducting medical test on patients mainly in the areas of rheumatology and fibromyalgia. When I started studying physics I was assigned to the medical image department and conducted research in collaboration with Department of Radiology.",
       "highlights": [
-        "Todo."
+        "Developed an algortihm for knee cartilage segmentation from MR images that would turn into my bachelor thesis.",
+        "Had a lot of patient contact working as project assistant."
       ]
     }
   ],
   "education": [
     {
       "institution": "Technical University of Denmark",
-      "area": "Medicin & Technology",
+      "area": "Medicin & Technology, Image Diagnostics and Radiation Physics Study Programme",
       "studyType": "Master",
       "startDate": "2011-09-01",
       "endDate": "2014-03-31",
       "courses": [
-        "Todo.",
-        "Todo."
+        "Medical Image Analysis (02505)",
+        "Advanced Image Analysis (02506)",
+        "Medical Magnetic Resonance Imaging (31547)",
+        "Advanced Signal Processing With Biomedical Applications (31560)",
+        "Biomedical product development (31590)",
+        "Pathophysiology (KU101)",
+        "High-Performance Computing (02614)",
+        "Statistical Design and Analysis of Experiments (02411)",
+        "Time Series Analysis (02417)",
+        "Project work within Image Analysis and Computer Graphics (02507)"
       ]
     },
     {
@@ -75,8 +84,25 @@
       "startDate": "2017-09-01",
       "endDate": "2011-08-10",
       "courses": [
-        "Todo.",
-        "Todo."
+        "Medical Image Analysis (NDAK10005U)",
+        "Operating Systems and Concurrent Programming (NDAA04029U)",
+        "Quantum Mechanics (QM2) (NFYB10010U)",
+        "Quantum Mechanics (QM1) (NFYB10013U)",
+        "Electromagnetism and Waves (NFYB10005U)",
+        "Electromagnetism  (NFYB10023U)",
+        "Stellar Structure and Evolution (NFYB10014U)",
+        "Cosmology (NFYB10024U)",
+        "Origin and Evolution of the Solar system (NNMA13002U)",
+        "Statistical Physics (NFYB10026U)",
+        "Thermodynamics (NFYB10001U)",
+        "Mathematics For Physicists (NFYA04070U)",
+        "Introduction to Mechanics and Relativity Theory (NFYB10004U)",
+        "Classical Mechanics (NFYB10012U)",
+        "Introduction to Computing for Physicists (NFYA06018U)",
+        "Introduction to Atomic Physics (NFYB13007U)",
+        "Dynamical Systems and Chaos (NFYA05045U)",
+        "Solution of differential equations  (NMAA08036U)",
+        "Linear Algebra (NMAB10007U)"
       ]
     }
   ],
@@ -85,7 +111,7 @@
       "title": "Best Student Paper Award",
       "date": "2014-09-15",
       "awarder": "IEEE ELMAR",
-      "summary": "Article and Oral presentation."
+      "summary": "Awarded for a paper written on the basis of my bachelor thesis \"Semi-automatic Segmentation of Knee Osteoarthritic Cartilage in Magnetic Resonance Images\"."
     }
   ],
   "publications": [
@@ -103,8 +129,8 @@
       "level": "Master",
       "keywords": [
         "C++",
-        "CUDA",
         "ITK",
+        "CUDA",
         "Python",
         "Matlab"
       ]
@@ -148,8 +174,22 @@
     {
       "name": "Drumming",
       "keywords": [
-        "Ferrets",
-        "Unicorns"
+        "Mike Johnston",
+        "Tony Royster Jr.",
+        "Double bass pedals"
+      ]
+    },
+    {
+      "name": "Snowboarding",
+      "keywords": [
+        "Hangtime",
+        "After ski"
+      ]
+    },
+    {
+      "name": "Scuba diving",
+      "keywords": [
+        "The closest you can come to feeling like flying"
       ]
     }
   ],
@@ -163,7 +203,7 @@
       "reference": "Kasper is a graduate student at the medicine and technology program at DTU. We know Kasper from his earlier work and projects connected to our department and he has proven to be an outstanding student. He is highly motivated and gifted with an open attitude. Kasper is one of our top student and we hope that he will continue his career at our institution."
     },
     {
-      "name": "Dr. Olga Kubassov, Founder and CEO at Image Analysis Ltd",
+      "name": "Dr. Olga Kubassova, Founder and CEO at Image Analysis Ltd",
       "reference": "Kasper is very bright, self-motivated and enthusiastic. It is a pleasure to work with him!"
     }
   ]

@@ -1,6 +1,6 @@
 ---
 title: Bachelor Thesis
-subtitle: On Cartilage Segmentation
+subtitle: On cartilage segmentation
 layout: default
 modal-id: 3
 date: 2011-08-11
