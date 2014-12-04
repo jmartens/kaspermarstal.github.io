@@ -109,8 +109,8 @@
   "awards": [
     {
       "title": "Best Student Paper Award",
-      "date": "2014-09-15",
-      "awarder": "IEEE ELMAR",
+      "date": "2011-09-15",
+      "awarder": "IEEE ELMAR 2011, Zadar, Croatia",
       "summary": "Awarded for a paper written on the basis of my bachelor thesis \"Semi-automatic Segmentation of Knee Osteoarthritic Cartilage in Magnetic Resonance Images\"."
     }
   ],
@@ -118,7 +118,7 @@
     {
       "name": "Semi-automatic Segmentation of Knee Osteoarthritic Cartilage in Magnetic Resonance Images",
       "publisher": "IEEE",
-      "releaseDate": "2014-05-25",
+      "releaseDate": "2011-05-25",
       "website": "",
       "summary": "Fast, innovative algorithm for segmentation of knee articular cartilage."
     }
