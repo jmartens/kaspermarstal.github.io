@@ -5,8 +5,8 @@ description: "Kasper Marstal's personal website."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: E6E2AF
-  secondary: A7A37E
+  primary: 3E606F
+  secondary: 91AA9D
   secondary-dark: 333
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
