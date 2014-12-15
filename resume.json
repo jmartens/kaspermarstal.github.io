@@ -41,7 +41,8 @@
       "summary": "Image Analysis Ltd develops Dynamika, an enterprise platform for MRI analysis and scoring. I develop the core image processing algorithms  specifically for scoring inflammatory or autoimmune conditions such as rheumatoid arthritis and cancer. The algorithms are both fully automatic and semi-automatic allows for detection and quantification of even subtle changes in disease progression.",
       "highlights": [
         "Integrated the elastix medical image registration library and the entire ITK library with our Java-based backend.",
-        "Developed an algorithm that identifies bone voids and output 3D printing instructions for printing bio-reabsorbable scaffolds on which stem cells can grow and heal major bone defects."
+        "Developed an algorithm that identifies bone voids and output 3D printing instructions for printing bio-reabsorbable scaffolds on which stem cells can grow and heal major bone defects.",
+        "Key contributor to Image Analysis' state-of-the-art cloud-based medical image processing platform used in research and clinical practice all over the world."
       ]
     },
     {
@@ -53,7 +54,7 @@
       "summary": "The Parker Institute is a research organization at Frederiksberg Hospital. I was initially hired as project assistant doing project management and conducting medical test on patients mainly in the areas of rheumatology and fibromyalgia. When I started studying physics I was assigned to the medical image department and conducted research in collaboration with Department of Radiology.",
       "highlights": [
         "Developed an algortihm for knee cartilage segmentation from MR images that would turn into my bachelor thesis.",
-        "Had a lot of patient contact working as project assistant."
+        "Extensive experience in dealing with patients."
       ]
     }
   ],
@@ -92,7 +93,7 @@
         "Electromagnetism  (NFYB10023U)",
         "Stellar Structure and Evolution (NFYB10014U)",
         "Cosmology (NFYB10024U)",
-        "Origin and Evolution of the Solar system (NNMA13002U)",
+        "Origin and Evolution of the Solar System (NNMA13002U)",
         "Statistical Physics (NFYB10026U)",
         "Thermodynamics (NFYB10001U)",
         "Mathematics For Physicists (NFYA04070U)",
