@@ -9,6 +9,6 @@ thumbnail: cochlea-implant-thumbnail.png
 alt: image-alt
 project-date: April 2014
 technologies: Matlab, C++
-link: cochlea-implant-april-2014.pdf
+link: cochlea-implants-april-2014.pdf
 description: This is a project I did for DTU Compute on the Hear-EU project (http://www.hear-eu.eu/). In this work microCT images are registered to obtain correspondences that contains large amounts of noise and are of low resolution. Today, standard CT images are used during surgical planning but these are of low resolution compared to the size of cochlea and contain a significant amoint of noise. Here, model-based statistical understanding of shape variability of the middle and inner ear are obtained from microCT images which can be used to enhance the avialable anatomical information for surgical planning. 
 ---
