@@ -8,7 +8,7 @@ img: simpleelastix-thumbnail.png
 thumbnail: simpleelastix-thumbnail.png
 alt: image-alt
 project-date: December 2014
-technologies: C++, ITK, SimpleITK, SWIG, elastix
+technologies: Code generation, C++, SWIG, ITK, elastix
 link: https://github.com/kaspermarstal/SimpleElastix
 description: The goal of SimpleElastix is to bring the robust medical image registration algorithms of elastix to a wider audience by integrating elastix with SimpleITK. This package provides elastix and transformix bindings for Python, Java, R, Ruby, Octave, Lua, Tcl and C# and lots of goodies that make state-of-the-art medical image registration really easy to do. Click the link to go the SimpleElastix Github page.
 
