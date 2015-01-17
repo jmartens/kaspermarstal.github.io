@@ -38,11 +38,12 @@
       "position": "Scientific Project Officer",
       "website": "http://imageanalysis.org.uk",
       "startDate": "2014-01-04",
-      "summary": "Image Analysis Ltd develops Dynamika, an enterprise platform for MRI analysis and scoring. I develop the core image processing algorithms  specifically for scoring inflammatory or autoimmune conditions such as rheumatoid arthritis and cancer. The algorithms are both fully automatic and semi-automatic allows for detection and quantification of even subtle changes in disease progression.",
+      "summary": "Image Analysis Ltd develops Dynamika, an enterprise platform for MRI analysis and scoring. I develop the core image processing algorithms  specifically for scoring inflammatory or autoimmune conditions such as rheumatoid arthritis and cancer. The algorithms are both fully automatic and semi-automatic allows for detection and quantification of even subtle changes in disease progression. I also work on the Node.js-based front-end and Java-based enterprise-grade back-end.",
       "highlights": [
         "Integrated the elastix medical image registration library and the entire ITK library with our Java-based backend.",
         "Developed an algorithm that identifies bone voids and output 3D printing instructions for printing bio-reabsorbable scaffolds on which stem cells can grow and heal major bone defects.",
-        "Key contributor to Image Analysis' state-of-the-art cloud-based medical image processing platform used in research and clinical practice all over the world."
+        "Key contributor to Image Analysis' state-of-the-art cloud-based medical image processing platform used in research and clinical practice all over the world.",
+        "Provided academic and technical support to clinical users."
       ]
     },
     {
