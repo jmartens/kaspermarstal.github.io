@@ -18,7 +18,7 @@ social:
   - title: github
     url: http://github.com/kaspermarstal
   - title: stack-overflow
-    url: http://http://stackoverflow.com/users/346365/kasper-marstal
+    url: http://stackoverflow.com/users/346365/kasper-marstal
 
 # Build settings
 markdown: kramdown
