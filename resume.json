@@ -4,15 +4,15 @@
     "label": "M.Sc. Eng., Medicin & Technology",
     "picture": "https://avatars3.githubusercontent.com/u/478833?v=3&s=460",
     "email": "kaspermarstal@gmail.com",
-    "phone": "+44 7729 860688",
+    "phone": "+45 53767797",
     "website": "http://kaspermarstal.github.io",
     "summary": "I believe computer-based analysis of medical images and clinical data will change the future of modern healthcare and I'm absolutely thrilled to be working in this field. My main interest is improving clinical workflow using computer aided diagnosis. I strongly believe in AI-based image analysis and making my science-y algorithms user-friendly so the (often not so technical) clinical personnel can actually put them to good use. For my Master's in Medicin & Technology I specialized in machine learning and medical image processing. Being part medicine and part computer science, this degree provides a fantastic multi-disciplinary foundation for working in this field. Having had medical courses alongside medicine students I understand mentality of healthcare professionals and how to work a multidisciplinary environment. And as a graduate in engineering I am result-oriented, versatile and analytical. I also have a bachelor degree in physics which has taught me the principles of problem solving and mathematical modelling. I come with an open mind, new ideas and high standards for myself and the company I work for. I have international experience and practical understanding of client contact through my 10 years working at Frederiksberg Hospital as a project assistant and fulltime R&D. I am easy to work with and contribute to a relaxed but focused workplace. ",
     "location": {
-      "address": "72A Settles Street",
-      "postalCode": "E1 1JP",
-      "city": "Whitechapel",
-      "countryCode": "UK",
-      "region": "London"
+      "address": "Dordtselaan 27 H",
+      "postalCode": "3081 BG",
+      "city": "Rotterdam",
+      "region": "South Holland",
+      "countryCode": "NL"
     },
     "profiles": [
       {
@@ -37,13 +37,14 @@
       "company": "Image Analysis",
       "position": "Scientific Project Officer",
       "website": "http://imageanalysis.org.uk",
-      "startDate": "2014-01-04",
+      "startDate": "2014-04-01",
+      "endDate": "2015-04-01",
       "summary": "Image Analysis Ltd develops Dynamika, an enterprise platform for MRI analysis and scoring. I develop the core image processing algorithms  specifically for scoring inflammatory or autoimmune conditions such as rheumatoid arthritis and cancer. The algorithms are both fully automatic and semi-automatic allows for detection and quantification of even subtle changes in disease progression. I also work on the Node.js-based front-end and Java-based enterprise-grade back-end.",
       "highlights": [
         "Integrated the elastix medical image registration library and the entire ITK library with our Java-based backend.",
         "Developed an algorithm that identifies bone voids and output 3D printing instructions for printing bio-reabsorbable scaffolds on which stem cells can grow and heal major bone defects.",
         "Key contributor to Image Analysis' state-of-the-art cloud-based medical image processing platform used in research and clinical practice all over the world.",
-        "Provided academic and technical support to clinical users."
+        "Academic and technical support to clinical users."
       ]
     },
     {
@@ -60,6 +61,12 @@
     }
   ],
   "education": [
+    {
+      "institution": "Biomedical Imaging Group Rotterdam, Erasmus MC, Netherlands",
+      "area": "Model-based medical image registration",
+      "studyType": "Ph.D",
+      "startDate": "2015-04-15"
+    },
     {
       "institution": "Technical University of Denmark",
       "area": "Medicin & Technology, Image Diagnostics and Radiation Physics Study Programme",
@@ -127,7 +134,7 @@
   ],
   "skills": [
     {
-      "name": "Image Processing",
+      "name": "Medical Image Analysis",
       "level": "Master",
       "keywords": [
         "C++",
@@ -138,12 +145,12 @@
       ]
     },
     {
-      "name": "Medical Image Analysis",
+      "name": "Medical Imaging",
       "level": "Master",
       "keywords": [
-        "Medical Imaging",
         "Machine Learning",
-        "Mathematical Modelling"
+        "Mathematical Modelling",
+        "Underlying physics of MR/CT/PET/X-ray"
       ]
     },
     {
@@ -154,6 +161,7 @@
         "Scientific Paper Writing",
         "Excellent Presentation Skills",
         "International Experience",
+        "Continuous Integration",
         "SCRUM Software Development"
       ]
     },
@@ -172,6 +180,7 @@
       "name": "Back-end Development",
       "level": "Intermediate",
       "keywords": [
+        "Docker",
         "Node.js",
         "Java",
         "Spring IO Platform",
