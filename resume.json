@@ -6,7 +6,7 @@
     "email": "kaspermarstal@gmail.com",
     "phone": "+45 53767797",
     "website": "http://kaspermarstal.github.io",
-    "summary": "I believe computer-based analysis of medical images and clinical data will change the future of modern healthcare and I'm absolutely thrilled to be working in this field. My main interest is improving clinical workflow using computer aided diagnosis. I strongly believe in AI-based image analysis and making my science-y algorithms user-friendly so the (often not so technical) clinical personnel can actually put them to good use. For my Master's in Medicin & Technology I specialized in machine learning and medical image processing. Being part medicine and part computer science, this degree provides a fantastic multi-disciplinary foundation for working in this field. Having had medical courses alongside medicine students I understand mentality of healthcare professionals and how to work a multidisciplinary environment. And as a graduate in engineering I am result-oriented, versatile and analytical. I also have a bachelor degree in physics which has taught me the principles of problem solving and mathematical modelling. I come with an open mind, new ideas and high standards for myself and the company I work for. I have international experience and practical understanding of client contact through my 10 years working at Frederiksberg Hospital as a project assistant and fulltime R&D. I am easy to work with and contribute to a relaxed but focused workplace. ",
+    "summary": "I believe computer-based analysis of medical images and clinical data will change the future of modern healthcare and I'm absolutely thrilled to be working in this field. My main interest is improving clinical workflow using computer aided diagnosis. I strongly believe in AI-based image analysis and making my science-y algorithms user-friendly so the (often not so technical) clinical personnel can actually put them to good use. For my Master's in Medicin & Technology I specialized in machine learning and medical image processing. Being part medicine and part computer science, this degree provides a fantastic multi-disciplinary foundation for working in this field. Having had medical courses alongside medicine students I understand mentality of healthcare professionals and how to work a multidisciplinary environment. And as a graduate in engineering I am result-oriented, versatile and analytical. I also have a bachelor degree in physics which has taught me the principles of problem solving and mathematical modelling. I come with an open mind, new ideas and high standards for myself and whoever I work for. I have international experience and practical understanding of client contact through my 10 years working at Frederiksberg Hospital. I am easy to work with and contribute to a relaxed but focused workplace. ",
     "location": {
       "address": "Dordtselaan 27 H",
       "postalCode": "3081 BG",
@@ -130,6 +130,12 @@
       "releaseDate": "2011-05-25",
       "website": "",
       "summary": "Fast, innovative algorithm for segmentation of knee articular cartilage."
+    },
+    {
+      "name": "SimpleElastix",
+      "website": "simpleelastix.github.io",
+      "summary": "User friendly image registration library",
+      "releaseDate": "2015-01-13"
     }
   ],
   "skills": [
@@ -167,11 +173,12 @@
     },
     {
       "name": "Front-end Development",
-      "level": "Good",
+      "level": "Intermediate",
       "keywords": [
         "HTML 5",
         "CSS3",
         "Angular.js",
+        "React.js"
         "Javascript",
         "Jekyll"
       ]
@@ -183,7 +190,6 @@
         "Docker",
         "Node.js",
         "Java",
-        "Spring IO Platform",
         "PostgreSQL",
         "CouchDB",
         "Neo4j"
